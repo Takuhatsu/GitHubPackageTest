@@ -1,0 +1,22 @@
+{
+  "name": "erc721b",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Takuhatsu/GitHubPackageTest.git"
+  },
+  "keywords": [
+    "testing"
+  ],
+  "author": "Takuhatsu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Takuhatsu/GitHubPackageTest/issues"
+  },
+  "homepage": "https://github.com/Takuhatsu/GitHubPackageTest#readme"
+}
