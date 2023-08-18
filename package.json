@@ -19,4 +19,7 @@
     "url": "https://github.com/Takuhatsu/GitHubPackageTest/issues"
   },
   "homepage": "https://github.com/Takuhatsu/GitHubPackageTest#readme"
-}
+},
+  "publishConfig": {
+	  "@TAKUHATSU:registry": "https://npm.pkg.github.com"
+  }
