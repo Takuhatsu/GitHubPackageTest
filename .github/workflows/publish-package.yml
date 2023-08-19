@@ -1,4 +1,4 @@
-name: TAKAHASHI
+name: erc721b
 
 on:
   release:
