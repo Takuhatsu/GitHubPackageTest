@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/Takuhatsu/GitHubPackageTest#readme",
   "publishConfig": {
-    "@TAKUHATSU:registry": "https://npm.pkg.github.com"
+    "@Takuhatsu:registry": "https://npm.pkg.github.com"
   }
 }
